@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2271934-d5fe-43b9-a209-8fe0c7d416db" name="Changes" comment="add todo">
-      <change afterPath="$PROJECT_DIR$/alphabetic_substitution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphabetic_substitution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_cipher.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,8 @@
       <workItem from="1663069080429" duration="18193000" />
       <workItem from="1663402945717" duration="16695000" />
       <workItem from="1663527470538" duration="504000" />
-      <workItem from="1663577808956" duration="5671000" />
+      <workItem from="1663577808956" duration="5783000" />
+      <workItem from="1664182316938" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <created>1663097401847</created>
