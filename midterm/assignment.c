@@ -26,7 +26,7 @@ const char * const get_input(void)
 	return strdup(buf); 
 }
 
-const char * get_decoded_message(const char * const pass_phrase)
+const char * const get_decoded_message(const char * const pass_phrase)
 {
     if(!strcmp(pass_phrase, secret_passphrase))
     {
